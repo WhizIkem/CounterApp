@@ -12,7 +12,14 @@ The Counter App is a basic web application built with HTML, CSS, and JavaScript.
 
 ## Getting Started
 
-1. Clone this repository to your local machine.
+1. Visit the live demo of the Counter App 
+   by clicking the following link:
+   [Counter App Demo](https://whizikem.github.io/CounterApp/)
+
+2. If you want to work with the source code, 
+   you can clone this repository to your local machine:
+
+   ```shell
    git clone https://github.com/whizikem/CounterApp.git
 2. Open the `index.html` file in your browser to
    launch the app.
