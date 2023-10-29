@@ -21,7 +21,7 @@ function increment() {
 
 function save() {
   if (count > 0) {
-    let countStr = count + " - ";
+    let countStr = count + " + ";
     saveEl.textContent += countStr;
     console.log(countStr);
     totalEntries += count;
